@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+<h1>Add a Heading Here</h1>
 Use the left arrow to go back!
